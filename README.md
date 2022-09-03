@@ -1,3 +1,4 @@
+![WhatsApp Image 2022-08-31 at 9 43 30 PM](https://user-images.githubusercontent.com/112767808/188281415-7cd8da65-7944-47e9-bfd0-cf27a41c29e2.jpeg)
 - 👋 Hi, I’m @jsjimenezm
 - 👀 I’m interested in GIS.
 - 🌱 I’m currently learning computacional climatology.
